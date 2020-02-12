@@ -1,0 +1,12 @@
+
+yarn add express
+yarn add body-parser
+yarn add mongoose
+yarn add bcryptjs
+yarn add jsonwebtoken
+
+//achei inutil e dificulta a proxima, só ignorei
+yarn add fs path // fs permite trabalhar com arquivos , importar arq no node
+                    // e o path com caminhos de pastas
+
+yarn add nodemailer
